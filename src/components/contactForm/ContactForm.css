@@ -1,0 +1,28 @@
+.submit-form {
+  border: 1px solid black;
+  padding: 10px;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.mb-2 {
+  margin-bottom: 2rem;
+}
+input {
+  padding: 10px;
+  border-radius: 5px;
+  border: 0.5px solid gray;
+}
+.btn {
+  padding: 10px;
+  width: 150px;
+  border-radius: 5px;
+  background: green;
+  color: white;
+  border-color: transparent;
+}
+.btn:hover {
+  cursor: pointer;
+}
