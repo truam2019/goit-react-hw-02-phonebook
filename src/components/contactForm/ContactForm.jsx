@@ -50,4 +50,3 @@ export default class ContactForm extends Component {
 ContactForm.propTypes = {
   addContact: PropTypes.func,
 };
-// test
